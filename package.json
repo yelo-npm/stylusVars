@@ -1,5 +1,5 @@
 {
-  "name": "stylusVars",
+  "name": "stylus-vars",
   "version": "0.0.1",
   "description": "Makes javascript variables available to stylus files",
   "main": "index.js",

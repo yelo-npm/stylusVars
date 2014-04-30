@@ -33,6 +33,8 @@ var stylusVars = function(config,options){
 			style.define(n,v);	
 		}
 	}
+
+	return addVars;
 }
 
 module.exports = stylusVars;
